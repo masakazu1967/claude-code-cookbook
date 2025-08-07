@@ -4,6 +4,13 @@
 *.swo
 *~
 
+.credentials.json
+ide/
+projects/
+shell-snapshots/
+statsig/
+todos/
+
 # OS generated files
 .DS_Store
 .DS_Store?
